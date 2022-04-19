@@ -6,7 +6,8 @@ Using Python skills and knowledge of Pandas, create a summary DataFrame of the r
 ## Resources
 Jupyter Notebook
 Python 3.7.10
-Dependencies:
+
+### Dependencies:
   - Python Pandas library
   - Python Numpy library
   - Python MatPlotLib library
